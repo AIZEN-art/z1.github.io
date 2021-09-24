@@ -1,0 +1,30 @@
+* {
+box-sizing: border-box;
+margin:40;
+padding: 80;
+}
+
+h1 {
+color:gold;
+font-size:70px;
+}
+
+h2 {
+color:silver;
+font-size:45px;
+}
+
+h3 {
+color:white;
+font-size:35px;
+}
+
+h4 {
+color:yellow;
+font-size:30px;
+}
+
+p {
+color:white;
+font-size:25px;
+}
